@@ -5,7 +5,7 @@ My name is **Radostina**, I'm a Software Engineering graduate with a focus on Ja
 - **Programming Languages:** JavaScript, TypeScript, HTML5, CSS3
 - **Frameworks & Libraries:** React, Angular, Express.js
 - **Testing & Automation:** Playwright, Mocha, Chai
-- **Databases:** MongoDB(Mongoose)
+- **Databases:** MongoDB (with Mongoose)
 - **Tools & Utilities:** Visual Studio Code, Postman
 - **Version Control & Bug Tracking:** GitHub, GitHub Desktop
 
