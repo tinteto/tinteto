@@ -13,8 +13,6 @@ I also completed a QA Fundamentals course where I learned core testing principle
 
 I’m always eager to learn and improve. Currently, I’m looking for opportunities in QA and software testing where I can apply both my technical training and problem-solving skills to deliver high-quality user experiences.
 
-Best, 
-Radostina
 Thanks for visiting my profile!
 
 
