@@ -1,7 +1,7 @@
 
 # Hello there! 👋
 
-My name is **Radostina**, I'm a Software Engineering graduate with a strong foundation in JavaScript and a growing passion for quality assurance and software testing. My training included a wide range of technologies:
+My name is **Radostina**, I'm a Software Engineering graduate with a strong foundation in JavaScript and a growing passion for **Quality Assurance** and software testing. My training included a wide range of technologies:
 
 - **Programming Languages:** JavaScript, TypeScript, HTML5, CSS3
 - **Frameworks & Libraries:** React, Angular, Express.js
