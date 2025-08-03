@@ -9,10 +9,12 @@ My name is **Radostina**, I'm a Software Engineering graduate with a strong foun
 - **Databases:** MongoDB (with Mongoose)
 - **Tools & Utilities:** Visual Studio Code, GitHub, GitHub Desktop, Jira
 
-I also completed a QA Fundamentals course where I learned core testing principles, test case design, defect tracking, and incident management using issue tracking tools. 
+I also completed a QA Fundamentals course where I learned core testing principles, test case design, defect tracking, and incident management using issue tracking tools. I also bring professional experience in scheduling and translation—roles that strengthened my attention to detail, communication, and time management.
 
-I'm always eager to learn and improve. Currently, I’m seeking opportunities where I can grow as a QA and contribute to innovative projects.
+I’m always eager to learn and improve. Currently, I’m looking for opportunities in QA and software testing where I can apply both my technical training and problem-solving skills to deliver high-quality user experiences.
 
+Best, 
+Radostina
 Thanks for visiting my profile!
 
 
